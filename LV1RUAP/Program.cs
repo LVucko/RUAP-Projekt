@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od LVucko");
+            Console.WriteLine("Pozdrav iz aplikacije od LVucko INDEKS:1234521");
         }
     }
 }
